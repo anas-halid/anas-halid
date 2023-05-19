@@ -1,6 +1,6 @@
 <b>Welcome to my Github</b>
 
-
+Currently in my final year, 
 <!--
 **anas-halid/anas-halid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
