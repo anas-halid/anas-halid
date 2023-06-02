@@ -1,6 +1,22 @@
 <b>Welcome to my Github</b>
 
-Currently in my final year, 
+Currently in my final year, going to graduate with my BCompSc degree soon. Interested in learning new tech trends, and how it has the ability to change
+our lives. 
+
+MERN stack developer
+Aspiring game developer
+
+Experience with :
+C++
+Lua
+Java
+HTML5
+CSS3
+Javascript + [React]
+NodeJS
+Express
+Mongodb
+GDScript
 <!--
 **anas-halid/anas-halid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
