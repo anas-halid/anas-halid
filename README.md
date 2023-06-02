@@ -2,7 +2,7 @@
 <br>
 Currently in my final year, going to graduate with my BCompSc degree soon. 
 <br>
-Interested in learning new tech trends, and how it has the impact to change our lives. 
+Interested in learning new tech trends, and how it has the ability to impact our lives. 
 <br>
 <br>
 MERN stack developer
