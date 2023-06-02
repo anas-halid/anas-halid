@@ -4,8 +4,11 @@ Currently in my final year, going to graduate with my BCompSc degree soon.
 <br>
 Interested in learning new tech trends, and how it has the ability to change our lives. 
 <br>
+<br>
 MERN stack developer
+<br>
 Aspiring game developer
+<br>
 <br>
 Experience with:
 <br>
