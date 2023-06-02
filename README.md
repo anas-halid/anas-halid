@@ -1,7 +1,8 @@
 <b>Welcome to my Github</b>
 <br>
-Currently in my final year, going to graduate with my BCompSc degree soon. Interested in learning new tech trends, and how it has the ability to change
-our lives. 
+Currently in my final year, going to graduate with my BCompSc degree soon. 
+<br>
+Interested in learning new tech trends, and how it has the ability to change our lives. 
 <br>
 MERN stack developer
 Aspiring game developer
