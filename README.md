@@ -12,6 +12,7 @@ Aspiring game developer
 <br>
 Experience with:
 <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 C++
 <br>
 Lua
