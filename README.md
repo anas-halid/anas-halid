@@ -40,6 +40,7 @@ Current Interest: Ai Assisted Development (Copilot etc.)
 <b>IDE :</b>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[![My Skills](https://skillicons.dev/icons?i=atom)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 <br>
 <br>
 <b>Database :</b>
