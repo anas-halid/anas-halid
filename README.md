@@ -13,7 +13,7 @@ Aspiring game developer
 Experience with:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![My Skills](https://skillicons.dev/icons?i=lua&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua&theme=light)](https://en.wikipedia.org/wiki/Lua_(programming_language))
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
