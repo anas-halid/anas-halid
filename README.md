@@ -9,6 +9,8 @@ MERN stack developer
 <br>
 Aspiring game developer
 <br>
+Current Interest: Ai Assisted Development (Copilot etc.)
+<br>
 <br>
 Experience with:
 <br>
