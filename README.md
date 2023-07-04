@@ -13,8 +13,8 @@ Aspiring game developer
 Experience with:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
