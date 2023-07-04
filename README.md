@@ -22,6 +22,9 @@ Experience with:
 [![My Skills](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://en.wikipedia.org/wiki/React_(software))
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+<br>
+Design :
+<br>
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://en.wikipedia.org/wiki/Figma_(software))
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://en.wikipedia.org/wiki/Node.js)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://en.wikipedia.org/wiki/Express.js)
