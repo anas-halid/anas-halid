@@ -14,23 +14,25 @@ Experience with:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 <br>
-Lua
+[![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
 <br>
-Java
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <br>
-HTML5
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 <br>
-CSS3
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 <br>
-Javascript + [React]
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) + [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 <br>
-NodeJS
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 <br>
-Express
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 <br>
-Mongodb
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 <br>
-GDScript
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 <br>
 <!--
 **anas-halid/anas-halid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
