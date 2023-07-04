@@ -12,24 +12,39 @@ Aspiring game developer
 Current Interest: Ai Assisted Development (Copilot etc.)
 <br>
 <br>
-Experience with:
+Programming Languages :
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![My Skills](https://skillicons.dev/icons?i=lua&theme=light)](https://en.wikipedia.org/wiki/Lua_(programming_language))
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://en.wikipedia.org/wiki/Java_(programming_language))
+<br>
+Front-End Dev :
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://en.wikipedia.org/wiki/React_(software))
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+<br>
+Back-End Dev :
+<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://en.wikipedia.org/wiki/Node.js)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://en.wikipedia.org/wiki/Express.js)
 <br>
 Design :
 <br>
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://en.wikipedia.org/wiki/Figma_(software))
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://en.wikipedia.org/wiki/Node.js)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://en.wikipedia.org/wiki/Express.js)
+<br>
+IDE :
+<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+<br>
+Database :
+<br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://en.wikipedia.org/wiki/MongoDB)
+<br>
+Game Dev :
+<br>
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://en.wikipedia.org/wiki/Godot_(game_engine))
+[![My Skills](https://skillicons.dev/icons?i=lua&theme=light)](https://en.wikipedia.org/wiki/Lua_(programming_language))
 <br>
 <!--
 **anas-halid/anas-halid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
