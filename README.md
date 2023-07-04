@@ -13,25 +13,16 @@ Aspiring game developer
 Experience with:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) + [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-<br>
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 <br>
 <!--
