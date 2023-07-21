@@ -32,6 +32,11 @@ Current Interest: Next.js
 [![My Skills](https://skillicons.dev/icons?i=express)](https://en.wikipedia.org/wiki/Express.js)
 <br>
 <br>
+<b>App Dev :</b>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://en.wikipedia.org/wiki/Android_Studio)
+<br>
+<br>
 <b>Design :</b>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://en.wikipedia.org/wiki/Figma_(software))
