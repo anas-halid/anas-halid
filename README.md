@@ -5,9 +5,9 @@ Currently in my final year, going to graduate with my BCompSc degree soon.
 Interested in learning new tech trends, and how it has the ability to impact our lives. 
 <br>
 <br>
-MERN stack developer
+MERN stack developer :desktop_computer:
 <br>
-Aspiring game developer
+Aspiring game developer :video_game:
 <br>
 Current Interest: Next.js
 <br>
