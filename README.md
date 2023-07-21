@@ -12,7 +12,7 @@ Aspiring game developer
 Current Interest: Ai Assisted Development (Copilot etc.)
 <br>
 <br>
-<b>Programming Languages :</b>
+<b>Compiled Programming Languages :</b>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://en.wikipedia.org/wiki/Java_(programming_language))
