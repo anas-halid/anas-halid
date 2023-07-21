@@ -9,7 +9,7 @@ MERN stack developer
 <br>
 Aspiring game developer
 <br>
-Current Interest: Ai Assisted Development (Copilot etc.)
+Current Interest: Next.JS
 <br>
 <br>
 <b>Compiled Programming Languages :</b>
