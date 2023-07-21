@@ -9,7 +9,7 @@ MERN stack developer
 <br>
 Aspiring game developer
 <br>
-Current Interest: Next.JS
+Current Interest: Next.js
 <br>
 <br>
 <b>Compiled Programming Languages :</b>
