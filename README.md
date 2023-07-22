@@ -7,7 +7,7 @@ Interested in learning new tech trends, and how it has the ability to impact our
 <br>
 :desktop_computer: MERN stack developer 
 <br>
-:video_game: Aspiring game developer
+:video_game: Hobby game developer
 <br>
 :bookmark_tabs: Current Interest: Next.js
 <br>
