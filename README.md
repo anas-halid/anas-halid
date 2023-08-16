@@ -1,6 +1,6 @@
 <b>Welcome to my Github</b>
 <br>
-Currently in my final year, going to graduate with my BCompSc degree soon. 
+Freshly Graduated with my Bachelor of Computer Science (BCS) from the University Of Wollongong (UOW). 
 <br>
 Interested in learning new tech trends, and how it has the ability to impact our lives. 
 <br>
