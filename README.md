@@ -56,7 +56,7 @@ Interested in learning new tech trends, and how it has the ability to impact our
 <br>
 <b>Web hosting :</b>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=netlify)](https://en.wikipedia.org/wiki/MongoDB](https://en.wikipedia.org/wiki/Netlify)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://en.wikipedia.org/wiki/Netlify)
 <br>
 <br>
 <b>Game Dev :</b>
