@@ -8,8 +8,8 @@ Interested in learning new tech trends, and how it has the ability to impact our
 :briefcase: CV: 
 https://rxresu.me/r/5AtauYMf
 <br>
-Personal Site:
-:computer: https://anashalideen.wordpress.com/
+:computer: Personal Site:
+https://anashalideen.wordpress.com/
 <br>
 :desktop_computer: MERN stack developer 
 <br>
