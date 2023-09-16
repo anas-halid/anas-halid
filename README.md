@@ -5,11 +5,11 @@ Freshly Graduated with my Bachelor of Computer Science (BCS) from the University
 Interested in learning new tech trends, and how it has the ability to impact our lives. 
 <br>
 <br>
-CV: 
+:briefcase: CV: 
 https://rxresu.me/r/5AtauYMf
 <br>
 Personal Site:
-https://anashalideen.wordpress.com/
+:computer: https://anashalideen.wordpress.com/
 <br>
 :desktop_computer: MERN stack developer 
 <br>
