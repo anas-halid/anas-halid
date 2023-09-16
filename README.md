@@ -8,7 +8,6 @@ Interested in learning new tech trends, and how it has the ability to impact our
 CV: 
 https://rxresu.me/r/5AtauYMf
 <br>
-<br>
 Personal Site:
 https://anashalideen.wordpress.com/
 <br>
