@@ -10,7 +10,7 @@ https://rxresu.me/r/5AtauYMf
 <br>
 <br>
 Personal Site:
-<br>https://anashalideen.wordpress.com/
+https://anashalideen.wordpress.com/
 <br>
 :desktop_computer: MERN stack developer 
 <br>
