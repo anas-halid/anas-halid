@@ -15,7 +15,7 @@ https://anashalideen.wordpress.com/
 <br>
 :video_game: Hobby game developer
 <br>
-:bookmark_tabs: Current Interest: Next.js
+:bookmark_tabs: Current Interest: Microsoft Azure
 <br>
 <br>
 <b>Compiled Programming Languages :</b>
